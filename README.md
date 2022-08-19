@@ -8,4 +8,5 @@ Keybord Slayer is python based website that helps the user to increase there spe
 
 # Team Work
 The task for creating this system was assigned for my 3rd SEM project and was made possible with the collaboration of my team members 
-Dipika Adak(DipikaAdak2311) and Priyanka Sanap(priyanka1171)
+###### Dipika Adak(DipikaAdak2311) [Vue](https://github.com/DipikaAdak2311)
+###### Priyanka Sanap(priyanka1171)[Vue](https://github.com/priyanka1171)
