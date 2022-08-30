@@ -12,5 +12,5 @@ For this project we have used the following :-
 
 # Team Work
 The task for creating this system was assigned for my 3rd SEM project and was made possible with the collaboration of my team members 
-- Dipika Adak(DipikaAdak2311) 
-- Priyanka Sanap(priyanka1171)
+- https://github.com/priyanka1171
+- https://github.com/DipikaAdak2311
