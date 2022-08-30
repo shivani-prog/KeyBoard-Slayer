@@ -6,9 +6,9 @@ Keybord Slayer is python  based website that helps the user to increase there sp
 
 For this project we have used the following :-
 
-#### Tkinter(python library) for GUI
-#### Matplotlib, pandas (python libraries) for graph generator
-#### SQLite3 for database
+- Tkinter(python library) for GUI
+- Matplotlib, pandas (python libraries) for graph generator
+- SQLite3 for database
 
 # Team Work
 The task for creating this system was assigned for my 3rd SEM project and was made possible with the collaboration of my team members 
