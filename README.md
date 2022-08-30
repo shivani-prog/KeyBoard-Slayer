@@ -11,6 +11,6 @@ For this project we have used the following :-
 - SQLite3 for database
 
 # Team Work
-The task for creating this system was assigned for my 3rd SEM project and was made possible with the collaboration of my team members 
+The task for creating this system was assigned for my 5th SEM project and was made possible with the collaboration of my team members 
 - https://github.com/priyanka1171
 - https://github.com/DipikaAdak2311
